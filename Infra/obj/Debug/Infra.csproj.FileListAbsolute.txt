@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\Infra.dll.config
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\Infra.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\Infra.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\Dominio.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\Dominio.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.csproj.CopyComplete
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.pdb

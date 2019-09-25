@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Aplicacao.exe.config
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Aplicacao.exe
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Dominio.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Infra.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Dominio.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Infra.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\Infra.dll.config
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.csproj.CopyComplete
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.exe
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.pdb

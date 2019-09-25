@@ -1,4 +1,5 @@
 ﻿using System;
+using Dominio.Entidades;
 
 namespace EFCodeFirst
 {
@@ -6,7 +7,13 @@ namespace EFCodeFirst
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (var ctx = new EscolaContext())
+            {
+                var stud = new Estudante() { StudentName = "Bill" };
+
+                ctx.Students.Add(stud);
+                ctx.SaveChanges();
+            }
         }
     }
 }

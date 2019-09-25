@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Programacao e Projetos\\C#\\EFCodeFirst\\EFCodeFirst\\EFCodeFirst.csproj",
-      "projectName": "EFCodeFirst",
-      "projectPath": "C:\\Users\\bruno\\Desktop\\Programacao e Projetos\\C#\\EFCodeFirst\\EFCodeFirst\\EFCodeFirst.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\Desktop\\Programacao e Projetos\\C#\\EFCodeFirst\\EFCodeFirst\\Aplicacao.csproj",
+      "projectName": "Aplicacao",
+      "projectPath": "C:\\Users\\bruno\\Desktop\\Programacao e Projetos\\C#\\EFCodeFirst\\EFCodeFirst\\Aplicacao.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bruno\\Desktop\\Programacao e Projetos\\C#\\EFCodeFirst\\EFCodeFirst\\obj\\",
       "projectStyle": "PackageReference",
