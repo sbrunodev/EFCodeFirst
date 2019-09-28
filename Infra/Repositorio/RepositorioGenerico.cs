@@ -9,12 +9,12 @@ using System.Threading.Tasks;
 
 namespace Infra.Repository
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public class RepositorioGenerico<T> : IRepositorioGenerico<T> where T : class
     {
         private EscolaContext _context = new EscolaContext();
         private DbSet<T> tabela = null;
 
-        public Repository()
+        public RepositorioGenerico()
         {
             _context = new EscolaContext();
             tabela = _context.Set<T>();

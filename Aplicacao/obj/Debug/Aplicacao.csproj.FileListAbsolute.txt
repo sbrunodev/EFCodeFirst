@@ -13,3 +13,7 @@ C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.csproj.CopyComplete
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.exe
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\obj\Debug\Aplicacao.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Aplicacao\bin\Debug\MySql.Data.xml

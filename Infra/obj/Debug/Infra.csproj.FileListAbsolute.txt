@@ -12,3 +12,10 @@ C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Inf
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.csproj.CopyComplete
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.dll
 C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.Migrations.InitialCreate.resources
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Infra\obj\Debug\Infra.Migrations.InitialCreate1.resources

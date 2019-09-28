@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Service
+namespace Dominio.Interfaces
 {
-    public class Class1
+    public interface IRepositorio
     {
     }
 }

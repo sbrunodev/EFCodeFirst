@@ -1,0 +1,6 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\bin\Debug\Service.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\bin\Debug\Service.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\obj\Debug\Service.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\C#\EFCodeFirst\Service\obj\Debug\Service.pdb

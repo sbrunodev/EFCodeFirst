@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dominio.Interfaces
 {
-    public interface IRepository<T>
+    public interface IRepositorioGenerico<T>
     {
         void Save();
 
